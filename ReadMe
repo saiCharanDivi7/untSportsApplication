@@ -1,0 +1,17 @@
+The easiest way to shop is with the shopping cart system. It is a system for a full-featured website and shopping cart that goes above and beyond to give you the freedom to run your online store.
+
+The application's basic idea is to let customers shop virtually over the Internet and buy the things they want from a store.
+
+On the server side, information about the products is stored in a RDBMS (store). Customers are processed by the server, and their addresses are used to ship the goods. Based on the selection made through the menu, the details of the items are shown to the customer in the database, and the database containing all of the products is updated at the conclusion of each transaction.
+
+How does the Shopping Cart system work? A type of online shopping in which the buyer connects directly to the seller's computer, typically via the internet, is known as online shopping. There is no delegate administration. In real time, the sale and purchase are completed electronically and interactively.
+
+The following activities are included in the development of this new system and aim to create an online application by keeping the entire process in mind of the database integration approach. Client gets its eamil id and secret word to get to their record.
+
+The administrator of the shopping cart system has a number of features, including the ability to add, remove, and update items.
+
+Elements of shopping basket Secure enlistment and profile managementfacilities for Clients. Perusing the e-Shopping center to see the itemsthat are there in every classification of items likeApparel, Kitchen adornments, Shower frill, Food things and so forth. Making a Shopping basket so client canShop N number of things and checkout at long last withthe whole shopping basket Clients ought to have the option to mail the Shopabout the things they might want to see in theShop Got component for looking at from theShop( Mastercard confirmation mechanism).Updates to clients about the New Things inthe Shop. Transferring Most Bought Things in eachcategory of items in the Shop like Apparel,Kitchen embellishments, Shower extras, Food things and so forth. A brief description of the technology: Webdocuments are created and saved using HTML. Notepad/Notepad++, for instance, CSS: Cascading Style Sheets) Make a Layout that looks good with JavaScript: it is a programming language,commonly use with internet browsers. End to end: PHP, MySQL
+
+PHP: Hypertext Preprocessor (PHP) is atechnology that permits programming designers tocreate powerfully created site pages, in HTML, XML,or other report types, according to client demand. PHP is an open-source program.
+
+MySQL: The database MySql is widely used for querying, updating, and managing database data. Steps for Installing WAMP Server, XAMPP Server, MAMP Server, or LAMP Server: Download the zip file and unzip it on your local server. Place this file in the folder "c:/wamp/www/." How the database is set up: Open phpmyadmin Make Information base named "shop". Shop.sql database import Open your web browser and enter this URL:
